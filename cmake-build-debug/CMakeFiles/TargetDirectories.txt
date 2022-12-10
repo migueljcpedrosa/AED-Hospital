@@ -1,3 +1,0 @@
-C:/Miguel/FEUP/2Ano/1Semestre/AED/resolucao_pratica-20221210T040237Z-001/resolucao_pratica/cmake-build-debug/CMakeFiles/Teste_2017.dir
-C:/Miguel/FEUP/2Ano/1Semestre/AED/resolucao_pratica-20221210T040237Z-001/resolucao_pratica/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Miguel/FEUP/2Ano/1Semestre/AED/resolucao_pratica-20221210T040237Z-001/resolucao_pratica/cmake-build-debug/CMakeFiles/rebuild_cache.dir
