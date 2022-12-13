@@ -55,15 +55,18 @@ Patient Doctor::removeNextPatient() {
 void Doctor::moveToFront(unsigned codP1) {
     auto patientsSize = patients.size();
     auto counter = 0;
-    while (patients.front().getCode() != codP1)
+    while (counter < patientsSize)
     {
-        patients.push(patients.front());
-        patients.pop();
-        counter++;
-        if(counter == patientsSize)
+        if (patients.front().getCode() == codP1)
         {
             break;
         }
+        else
+        {
+            patients.push(patients.front());
+            patients.pop();
+        }
+        counter++;
     }
 }
 
